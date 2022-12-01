@@ -1,6 +1,6 @@
 # SIMS---Sistem-Informasi-Monitoring-Siswa
 
-Aplikasi Sistem Informasi Monitoring Siswa yang dapat digunakan untuk memonitoring prestasi dan pelanggaran siswa dengan baik untuk sekolah. Aplikasi Sistem Informasi Monitoring Siswa ini dibuat dengan menggunakan bahasa pemrograman PHP dan database MySQL.
+Aplikasi Sistem Informasi Monitoring Siswa yang dapat digunakan untuk memonitoring prestasi dan pelanggaran siswa dengan baik untuk sekolah. Aplikasi Sistem Informasi Monitoring Siswa ini dibuat dengan menggunakan bahasa pemrograman PHP version 8.0 dan database MySQL.
 
 Berikut fitur yang terdapat dalam source code aplikasi persediaan dan pembelian barang :
 
